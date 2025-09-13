@@ -1,0 +1,23 @@
+Stone Paper Scissors
+This is a simple console-based game of Stone, Paper, Scissors, built with C++. I created this project while getting bored in a class, using only a pen, paper, and online searches for C++ syntax. It was a pure-fun, no-tutorial challenge to see if I could build a working game from scratch.
+
+Features
+A classic game of Stone, Paper, Scissors.
+
+Player vs. Computer gameplay.
+
+Simple, text-based interface.
+
+A Note on the Code
+
+As this was a fun, personal challenge, the code is not optimized for performance or efficiency. It was written to be functional, not perfect. There may be room for improvement in terms of time complexity or code structure.
+
+Future Improvements :
+
+Add multiple rounds and keep score.
+
+Enhance the UI with more descriptive text or art.
+
+Implement a strategic computer opponent that "rigs" the game in subtle ways, similar to how gambling websites keep users engaged and interested.
+
+Explore different algorithms for the computer's choice to make it more unpredictable.
